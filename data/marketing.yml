@@ -16,9 +16,9 @@ user:
     이메일 : slrlal95@gmail.com
     대표자 : 이민재
     year : "2021"
-    github : http://github.com/team-durumi
-    url : 
-    caption: 2021-이민재
+    github : https://github.com/team-durumi/majin
+    url : mailto:slrlal95@gmail.com
+    caption: Mail to Researchers
     fb : 
     tw : 
     instagram : 
@@ -124,19 +124,19 @@ featuredItems:
 ############################ hero-right/left ##########################
 heroRight:
   enable : true
-  title : Visual Design System 을 포함하고 있는
-  subtitle : 오픈소스 디지털아카이브
-  content : 아이템 / 컬렉션 / 콘텐츠 / 전시  UI 영역을 세분화해 구성한 Design System 을 포함합니다. 현재 보이는 페이지는 사용자에 따라서 모두 다르게 구성할 수 있습니다.
+  title : 마진리 
+  subtitle : 마을 연구 프로젝트
+  content : 마진리마을연구 프로젝트 by 이민재, 라연재
   image : img/durumi.png
   # button
   buttonOne:
     enable : true
     label : Github
-    url : http://github.com/team-durumi
+    url : http://github.com/team-durumi/majin
   buttonTwo:
     enable : true
-    label : team@durumi.io
-    url : mailto:team@durumi.io
+    label : slrlal95@gmail.com
+    url : mailto:slrlal95@gmail.com
 
 
 ############################ two box ##########################
@@ -188,14 +188,14 @@ faq:
 
 cta:
   enable : true
-  category : 개발 및 오픈 문의
-  title : 팀 두루미와 함께 개발하세요 !
-  content : Durumi는 시민사회영역과 IT개발 영역에서 10년 이상의 경력을 가진 구성원 중심으로 구성된 5명의 개발팀입니다. 최근 5년간 디지털아카이브 개발 프로젝트에 집중해 왔으며, Ruby on Rails 기반의 웹 서비스, 기술 컨설팅, 오픈소스 프로젝트도 함께하고 있습니다."
+  category : 지역연구
+  title : 마진리 마을 연구 프로젝트
+  content : 마진리 마을 연구 프로젝트
   # button
   button:
     enable : true
-    label : 팀 두루미 프로젝트 살펴보기
-    url : https://archives.durumi.io/
+    label : 프로젝트팀에게 메일 보내기
+    url : mailto:slrlal95@gmail.com
 
 ####################### contact #####################
 

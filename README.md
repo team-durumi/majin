@@ -5,6 +5,8 @@
 rclone sync dropbox:/content/items /Users/woonjjang/hugo/majin/content/items
 rclone sync /Users/woonjjang/hugo/majin/content/items dropbox:/content/items
 ```
+- dropbox & text editor(windows)
+- PDF, audio file 등에 관해 테스트 하고 싶다. 
 
 ## metafield 관련
 - 주소 부분 처리(도로명? / 위도경도)
