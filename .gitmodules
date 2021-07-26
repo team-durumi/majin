@@ -1,0 +1,6 @@
+[submodule "themes/tailwind-aa-theme"]
+	path = themes/tailwind-aa-theme
+	url = https://github.com/team-durumi/tailwind-aa-theme
+[submodule "themes/hugo-search-fuse-js"]
+	path = themes/hugo-search-fuse-js
+	url = https://github.com/kaushalmodi/hugo-search-fuse-js
