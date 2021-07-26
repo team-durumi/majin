@@ -1,0 +1,47 @@
+baseURL = "https://marjin.durumi.io"
+languageCode = "ko-kr"
+title = "marjin"
+theme = ["tailwind-aa-theme", "hugo-search-fuse-js"]
+
+[build]
+writeStats = true
+
+[taxonomies]
+  tag = "tags"
+  subject = "subjects"
+  creator = "creators"
+  venue = "venues"
+  source = "sources"
+
+[module]
+
+  [[module.mounts]]
+    source = "themes/tailwind-aa-theme/exampleSite/data"
+    target = "data"    
+
+  [[module.mounts]]
+    source = "themes/tailwind-aa-theme/exampleSite/static"
+    target = "static"
+
+[menu]
+
+  [[menu.main]]
+  name = "홈"
+  URL = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "자료탐색"
+  URL = "items"
+  weight = 2
+
+  [[menu.main]]
+  name = "검색"
+  URL = "search"
+  weight = 3
+
+  [[menu.main]]
+  name = "연구노트"
+  URL = "posts"
+  weight = 4
+
