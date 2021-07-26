@@ -1,4 +1,4 @@
-baseURL = "https://majin.netlify.app/"
+baseURL = "https://majin.durumi.io"
 languageCode = "ko-kr"
 title = "marjin"
 theme = ["tailwind-aa-theme", "hugo-search-fuse-js"]
