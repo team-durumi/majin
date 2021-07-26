@@ -1,0 +1,206 @@
+########### Partial/Basic에 노출되는 사용자 데이터를 편집합니다. ###########
+
+###################### user/org information #####################
+user:
+  title : 마진리 마을 연구 프로젝트
+  tagLine : 마진리 마을 연구 프로젝트
+  tel : 02-0000-0000
+  fax : 02-0000-0000
+  email : slrlal95@gmail.com
+  representative: 이민재
+  location : Somewhere in Seoul
+  footer :
+    대표전화 : 02-0000-0000
+    팩스 : 02-0000-0000
+    주소 : Somewhere in Seoul
+    이메일 : slrlal95@gmail.com
+    대표자 : 이민재
+    year : "2021"
+    github : http://github.com/team-durumi
+    url : 
+    caption: 2021-이민재
+    fb : 
+    tw : 
+    instagram : 
+    linkedin : 
+
+######## Partials/app에 노출되는 사용자 데이터를 편집합니다. ########
+
+############################ simple-browse.html ##########################
+browseItems:
+  category : 아카이브(국내외)
+  title : 디지털아카이브 목록
+  enable : true
+  url : https://docs.google.com/spreadsheets/d/e/2PACX-1vRHcD8xBpgJwbVpcQj23lzwmjMH98kMRIIOwLU0oRefC0dZh6Fh1RLE6QdEbM3xrFla9gJQta59DXVv/pub
+  content : 국내외 디지털아카이브를 수집합니다. 개발 및 컨설팅에 참고하고자 수집을 시작했습니다. @daamable @woonjjang
+
+######## Partials/Marketing에 노출되는 사용자 데이터를 편집합니다. ########
+
+########################## slider_alpine.html(slider.json) ##########################
+
+########################## item-image-masonry.html ##########################
+images:
+  - src: 'https://images.unsplash.com/photo-1591030617255-43892ec644bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1007&q=80'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'
+  - src: 'https://images.unsplash.com/photo-1544427920-c49ccfb85579?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80'
+    alt: 'Image of Black Lives Matter protest in London'
+    caption: 'Black Lives Matter - London June 2020'
+  - src: 'https://images.unsplash.com/photo-1590931511555-83151d16a146?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80'
+    alt: 'Image of Black Lives Matter protest in Charlotte'
+    caption: 'George Floyd protests in Uptown Charlotte'
+  - src: 'https://images.unsplash.com/photo-1591030617255-43892ec644bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1007&q=80'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'    
+  - src: 'https://images.unsplash.com/photo-1542683305-710078a12f73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'  
+  - src: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'
+  - src: 'https://images.unsplash.com/photo-1544333323-ec9ed3218dd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'        
+  - src: 'https://images.unsplash.com/photo-1591030617255-43892ec644bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1007&q=80'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'
+  - src: 'https://images.unsplash.com/photo-1544427920-c49ccfb85579?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80'
+    alt: 'Image of Black Lives Matter protest in London'
+    caption: 'Black Lives Matter - London June 2020'
+  - src: 'https://images.unsplash.com/photo-1591030617255-43892ec644bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1007&q=80'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'    
+  - src: 'https://images.unsplash.com/photo-1542683305-710078a12f73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'  
+  - src: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'
+  - src: 'https://images.unsplash.com/photo-1544333323-ec9ed3218dd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'
+    alt: 'A protester in Washington DC holds a sign featuring George Floyd.'
+    caption: 'A protester in Washington DC holds a sign featuring George Floyd.'        
+  
+
+############################ featured-items ##########################
+featuredItems:
+  category : 영상자료
+  title : 연구소 대표 기록 소개
+  enable : true
+  content : 디지털아카이브에서 사용자들에게 쉽게 소개하며, 역사적 의의가 있는 아이템을 소개합니다.
+  listItem:
+    - category : 한국전쟁
+      title : 북한인민군 소년병 포로
+      description : 미 해병 제1사단 5연대에게 포로가 된 북한인민군 소년병들. 이들은 웃옷을 벗고 무장해제를 당한 뒤 항복했다.
+      component : https://dummyimage.com/462x384
+      author: CCWPS
+      date: 2020-11-23
+      identifier: ccwps-01
+      author: 디스크립션 작성자
+      creator: 1951.5.29., RG 127-GK-109-A8872, NARA
+      url : /items/0012
+
+    - category : 2차세계대전
+      title : 정규군 포로
+      description : 미 해병 제1사단 5연대에게 포로가 된 북한인민군 소년병들. 이들은 웃옷을 벗고 무장해제를 당한 뒤 항복했다.
+      component : https://dummyimage.com/462x384
+      author: CCWPS
+      date: 2020-11-23
+      identifier: ccwps-02
+      author: 디스크립션 작성자
+      creator: 1951.10.17, RG 111-SC-Box 813-382561, NARA
+      url : /items/0013      
+
+    - category : category
+      title : 포획된 전쟁포로
+      description : 미 해병 제1사단 5연대에게 포로가 된 북한인민군 소년병들. 이들은 웃옷을 벗고 무장해제를 당한 뒤 항복했다.
+      component : https://dummyimage.com/462x384
+      author: CCWPS
+      date: 2020-11-23
+      identifier: ccwps-03
+      author: 디스크립션 작성자
+      creator: 951.10.17, RG 111-SC-Box 813-382561, NARA
+      url : /items/0014               
+
+############################ hero-right/left ##########################
+heroRight:
+  enable : true
+  title : Visual Design System 을 포함하고 있는
+  subtitle : 오픈소스 디지털아카이브
+  content : 아이템 / 컬렉션 / 콘텐츠 / 전시  UI 영역을 세분화해 구성한 Design System 을 포함합니다. 현재 보이는 페이지는 사용자에 따라서 모두 다르게 구성할 수 있습니다.
+  image : img/durumi.png
+  # button
+  buttonOne:
+    enable : true
+    label : Github
+    url : http://github.com/team-durumi
+  buttonTwo:
+    enable : true
+    label : team@durumi.io
+    url : mailto:team@durumi.io
+
+
+############################ two box ##########################
+twobox:
+  title : 2box 설명
+  firstBox:
+    - title : Free 버전
+      content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+      urlLabel : 더 알아보기
+      url : http://durumi.io
+
+  secondBox:
+    - title : Custom 버전
+      content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+      urlLabel : 더 알아보기
+      url : http://durumi.io
+
+
+############################ FAQ ##########################
+faq:
+  title : 자주 묻는 질문
+  enable : true
+  content : 아이템 / 컬렉션 / 콘텐츠 / 전시  UI 영역을 세분화해 구성한 Design System 을 포함합니다. 탐색 / 검색 / 참여형 아이템 수집과 같은 사용자 동선을 반영한 페이지를 구성해 1만건 미만의 스크립트 기반의 탐색 / 검색 퍼포먼스를 제공하는 오픈소스 디지털아카이브를 사용할 수 있습니다. 궁금증을 해소하세요.
+  url : http://durumi.io
+  listItem:
+
+    - question : 아카이브에 포함된 데이터는 어디서 가져오는 것인가요 ?
+      answer : 폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스(드롭박스, 아마존 S3)와 메타정보가 기록된 공개된 엑셀파일을 디지털아카이브에 노출합니다. 따라서, 완전히 공개된 자료를 처리하는데 도움이 되는 서비스입니다. 
+
+    - question : 관련된 자료들의 저작권 및 공개여부에 대해서는 어떤 규정을 지켜야 하나요 ?
+      answer : 현재 보고 있는 기사 / 논문 / 영상에 대한 저작권 및 공개 여부는 아카이브를 소유한 소유자가 관리하는 영역입니다.
+
+    - question : 이런 형태의 디지털아카이브를 사용하기 위해서는 웹서버 혹은 데이터베이스가 필요한가요 ?
+      answer : 아닙니다. 현재 사이트는 거대한 HTML 덩어리라고 상상하세요. 해당 HTML에 접근하기 위해서는 최소 사양의 웹서버만 지원되면됩니다. 따라서 Netlify, CloudFlare 같은 서비스를 통해 웹에 공개해 놓습니다. 그래서 시작과 운영이 무료입니다. 추구 해당 서비스의 가격정책에 따라 달라질 수 있습니다.
+
+    - question : 개발에 걸리는 시간은 어느 정도되나요 ?
+      answer : 해당되는 파일을 참조해 빠르게 개발할 수 있습니다. 단, 사용자가 공개하고자 하는 기록/자료를 정리하는데 드는 시간, 사용자 정보를 정리하는 시간, 디자인을 결정하거나 별도의 기능을 요청하는 경우에 시간이 많이 걸리게 됩니다. 또한 Readable한 기록/자료를 만드는데 꽤 개발시간이 소요됩니다. 
+
+    - question : 오픈소스화에 대한 계획이 있나요 ?
+      answer : 당연합니다. team-durumi는 Opensource 정책과 개발 생태계를 중요시 합니다. 디지털아카이브들이 지속적인 개발을 유지할 수 있게하는게 이 프로젝트의 목표입니다. 
+
+    - question : 왜 이런걸 만들게 된 거죠 ?
+      answer : 개발팀이 경험한 디지털아카이브는 개발과 커뮤니케이션에 비용이 많이 들었습니다. 모든 디지털아카이브가 폐쇄적이어야 할 이유는 없고, 웹서버와 대용량의 Storage, 비싼 검색엔진과 라이센스비용을 내야 하는 데이터베이스를 사용할 이유는 없습니다. 무해하고, 괜찮은 디지털아카이브가 더 많이 생겨나고, 사용되길 바라는 마음에서 시작하게 되었습니다. 
+
+    - question : 오류관련 문의 (깃허브, 이메일)
+      answer : https://github.com/team-durumi/tailwind-aa/issues 에 직접 오류 관련 문의를 남겨주시거나, hark@durumi.io 로 오류관련 문의를 전달해 주세요. 
+
+####################### call to actions #####################
+
+cta:
+  enable : true
+  category : 개발 및 오픈 문의
+  title : 팀 두루미와 함께 개발하세요 !
+  content : Durumi는 시민사회영역과 IT개발 영역에서 10년 이상의 경력을 가진 구성원 중심으로 구성된 5명의 개발팀입니다. 최근 5년간 디지털아카이브 개발 프로젝트에 집중해 왔으며, Ruby on Rails 기반의 웹 서비스, 기술 컨설팅, 오픈소스 프로젝트도 함께하고 있습니다."
+  # button
+  button:
+    enable : true
+    label : 팀 두루미 프로젝트 살펴보기
+    url : https://archives.durumi.io/
+
+####################### contact #####################
+
+contact:
+  enable : true
+  category : 수집
+  title : 함께 참여해서 아이템을 수집하세요. !
+  content : 디지털 아카이브에서 사용하는 기본 파일을 드래그해서 드롭하세요. 목록이 조사된 엑셀 파일이나, CSV 파일을 업로드하셔도 됩니다.
