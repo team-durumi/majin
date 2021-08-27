@@ -1,6 +1,6 @@
 ---
 lastmod: 2021-07-26
-title: 마진리 모음
+title: 마진리
 type: page
 ---
 
